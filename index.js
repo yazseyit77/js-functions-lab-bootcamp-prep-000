@@ -7,4 +7,4 @@ var name = "you!";
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}`;
 }
-happyHolidaysTo(name);
+comsole.log(happyHolidaysTo(name));
